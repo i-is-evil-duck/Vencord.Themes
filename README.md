@@ -3,6 +3,7 @@
 
 ### Discord Mods
 
+currently only vencord theme
 
 
 ## Views
