@@ -10,12 +10,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
-  --backgroundImage: url('https://smoggyshygnudebugger.armsit.repl.co/1.gif');
+  --backgroundImage: url('https://github.com/cokie1479/dot.files/blob/main/discord/1.gif?raw=true');
+  --backgroundColor: #381A94;
   --backgroundSize: cover;
   --backgroundPosition: center;
   --backgroundRepeat: no-repeat;
