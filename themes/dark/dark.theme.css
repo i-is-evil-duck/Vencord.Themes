@@ -1,7 +1,7 @@
 /**
- * @name purply
- * @version 1.0
- * @description its purple
+ * @name dark
+ * @version 1.1
+ * @description its purple still
  * @author i.is.evil.duck
  * @source https://github.com/xcruxiex/themes
  * @website https://betterdiscord.app/theme/Neutron
@@ -13,7 +13,7 @@
 
 
 :root {
-  --backgroundImage: url('https://github.com/i-is-evil-duck/Discord/blob/main/themes/purply/1.gif?raw=true');
+  --backgroundImage: url('https://github.com/i-is-evil-duck/Discord/blob/main/themes/dark/1.gif?raw=true');
   --backgroundSize: cover;
   --backgroundColor: #371e66;
   --backgroundPosition: center;
